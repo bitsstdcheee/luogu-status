@@ -7,12 +7,16 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: Luogu
     url: https://www.luogu.com.cn
+  - name: Codeforces
+    url: https://codeforces.com
+  - name: HDU
+    url: http://acm.hdu.edu.cn
+  - name: VJudge
+    url: https://vjudge.net
+  - name: Github
+    url: https://github.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
