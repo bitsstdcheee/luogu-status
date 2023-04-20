@@ -58,19 +58,19 @@
     "url": "https://codeforces.com",
     "icon": "https://icons.duckduckgo.com/ip3/codeforces.com.ico",
     "slug": "codeforces",
-    "status": "up",
-    "uptime": "76.78%",
-    "uptimeDay": "76.78%",
-    "uptimeWeek": "76.78%",
-    "uptimeMonth": "76.78%",
-    "uptimeYear": "76.78%",
-    "time": 366,
-    "timeDay": 366,
-    "timeWeek": 366,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "status": "down",
+    "uptime": "78.27%",
+    "uptimeDay": "78.27%",
+    "uptimeWeek": "78.27%",
+    "uptimeMonth": "78.27%",
+    "uptimeYear": "78.27%",
+    "time": 333,
+    "timeDay": 333,
+    "timeWeek": 333,
+    "timeMonth": 333,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-04-20": 216
+      "2023-04-20": 205
     }
   },
   {
