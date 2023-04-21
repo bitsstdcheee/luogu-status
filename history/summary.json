@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.luogu.com.cn.ico",
     "slug": "luogu-cdn",
     "status": "up",
-    "uptime": "95.28%",
-    "uptimeDay": "95.28%",
-    "uptimeWeek": "95.28%",
-    "uptimeMonth": "95.28%",
-    "uptimeYear": "95.28%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2664,
     "timeDay": 2664,
     "timeWeek": 2664,
     "timeMonth": 2664,
     "timeYear": 2664,
-    "dailyMinutesDown": {
-      "2023-04-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Luogu Discuss",
@@ -170,7 +168,7 @@
     "slug": "codeforces",
     "status": "up",
     "uptime": "67.09%",
-    "uptimeDay": "57.09%",
+    "uptimeDay": "57.10%",
     "uptimeWeek": "67.09%",
     "uptimeMonth": "67.09%",
     "uptimeYear": "67.09%",
