@@ -9,6 +9,18 @@ sites:
     url: https://en.wikipedia.org
   - name: Luogu
     url: https://www.luogu.com.cn
+  - name: Luogu CDN
+    url: https://cdn.luogu.com.cn
+  - name: Luogu Discuss
+    url: https://www.luogu.com.cn/discuss/lists
+  - name: Luogu Contest
+    url: https://www.luogu.com.cn/contest/list
+  - name: Luogu Problem List
+    url: https://www.luogu.com.cn/problem/list
+  - name: Luogu Ti
+    url: https://ti.luogu.com.cn/problemset
+  - name: Luogu Class
+    url: https://class.luogu.com.cn/course
   - name: Codeforces
     url: https://codeforces.com
   - name: HDU
