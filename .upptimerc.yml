@@ -11,6 +11,10 @@ sites:
     url: https://www.luogu.com.cn
   - name: Luogu CDN
     url: https://cdn.luogu.com.cn
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
   - name: Luogu Discuss
     url: https://www.luogu.com.cn/discuss/lists
   - name: Luogu Contest
