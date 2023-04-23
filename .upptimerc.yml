@@ -11,6 +11,10 @@ sites:
     url: https://www.luogu.com.cn
   - name: Luogu CDN
     url: https://cdn.luogu.com.cn/fe/loader.js?ver=20230228-2
+    header:
+      - "accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"
+      - "user-agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.95"
+      - "Referer: https://www.luogu.com.cn/"
     expectedStatusCodes:
       - 200
       - 201
