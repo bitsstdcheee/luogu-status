@@ -36,6 +36,12 @@ sites:
     url: https://vjudge.net
   - name: Github
     url: https://github.com
+  - name: AtCoder
+    url: https://atcoder.jp
+  - name: UVA
+    url: https://onlinejudge.org
+  - name: UVA Last 50 Submissions
+    url: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=19
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
