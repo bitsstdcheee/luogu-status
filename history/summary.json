@@ -136,7 +136,7 @@
     "slug": "luogu-ti",
     "status": "down",
     "uptime": "96.60%",
-    "uptimeDay": "96.53%",
+    "uptimeDay": "96.50%",
     "uptimeWeek": "96.60%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "96.60%",
@@ -146,7 +146,7 @@
     "timeMonth": 2163,
     "timeYear": 2163,
     "dailyMinutesDown": {
-      "2023-04-26": 0,
+      "2023-04-26": 1,
       "2023-04-25": 49,
       "2023-04-24": 167
     }
