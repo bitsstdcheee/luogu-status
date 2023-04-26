@@ -53,7 +53,7 @@ status-website:
   introMessage: "检测常用 OJ 和网站的状况"
   navbar:
     - title: 主页
-      href: /
+      href: /luogu-status
     - title: GitHub 仓库
       href: https://github.com/$OWNER/$REPO
     - title: 洛谷主页
