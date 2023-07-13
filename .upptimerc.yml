@@ -30,6 +30,8 @@ sites:
     url: https://class.luogu.com.cn/course
   - name: Codeforces
     url: https://codeforces.com
+  - name: Codeforces (Mirror)
+    url: https://mirror.codeforces.com
   - name: HDU
     url: http://acm.hdu.edu.cn
   - name: VJudge
