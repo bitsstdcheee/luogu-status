@@ -479,7 +479,7 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.26%",
+    "uptimeWeek": "98.27%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.69%",
     "time": 1410,
@@ -633,18 +633,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/magicoj.com.ico",
     "slug": "magic-oj",
     "status": "down",
-    "uptime": "1.45%",
-    "uptimeDay": "1.45%",
-    "uptimeWeek": "1.45%",
-    "uptimeMonth": "1.45%",
-    "uptimeYear": "1.45%",
+    "uptime": "0.99%",
+    "uptimeDay": "0.99%",
+    "uptimeWeek": "0.99%",
+    "uptimeMonth": "0.99%",
+    "uptimeYear": "0.99%",
     "time": 1175,
     "timeDay": 1175,
     "timeWeek": 1175,
     "timeMonth": 1175,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-08-14": 2
+      "2023-08-14": 3
     }
   }
 ]
