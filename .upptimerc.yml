@@ -46,6 +46,8 @@ sites:
     url: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=19
   - name: MagicOJ
     url: http://magicoj.com
+  - name: CSP 报名系统
+    url: https://cspsjtest.noi.cn/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
