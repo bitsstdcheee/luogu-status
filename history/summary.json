@@ -97,10 +97,10 @@
     "url": "https://cdn.luogu.com.cn/fe/loader.js?ver=20230228-2",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.luogu.com.cn.ico",
     "slug": "luogu-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "91.15%",
-    "uptimeWeek": "94.55%",
+    "uptimeDay": "91.01%",
+    "uptimeWeek": "94.53%",
     "uptimeMonth": "98.13%",
     "uptimeYear": "98.92%",
     "time": 4256,
@@ -109,7 +109,7 @@
     "timeMonth": 4203,
     "timeYear": 4256,
     "dailyMinutesDown": {
-      "2023-10-30": 91,
+      "2023-10-30": 93,
       "2023-10-29": 56,
       "2023-10-28": 301,
       "2023-10-27": 64,
@@ -140,7 +140,7 @@
       "2023-09-11": 55,
       "2023-09-10": 34,
       "2023-09-09": 89,
-      "2023-09-06": 36
+      "2023-09-06": 17
     }
   },
   {
@@ -317,10 +317,10 @@
     "url": "https://ti.luogu.com.cn/problemset",
     "icon": "https://icons.duckduckgo.com/ip3/ti.luogu.com.cn.ico",
     "slug": "luogu-ti",
-    "status": "up",
+    "status": "down",
     "uptime": "97.85%",
-    "uptimeDay": "95.00%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "94.91%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.39%",
     "uptimeYear": "97.85%",
     "time": 2297,
@@ -329,7 +329,7 @@
     "timeMonth": 2280,
     "timeYear": 2297,
     "dailyMinutesDown": {
-      "2023-10-30": 34,
+      "2023-10-30": 35,
       "2023-10-29": 38,
       "2023-10-27": 16,
       "2023-10-19": 51,
@@ -387,7 +387,7 @@
       "2023-05-23": 61,
       "2023-05-21": 112,
       "2023-05-19": 18,
-      "2023-05-17": 47
+      "2023-05-17": 24
     }
   },
   {
@@ -396,11 +396,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/class.luogu.com.cn.ico",
     "slug": "luogu-class",
     "status": "up",
-    "uptime": "85.14%",
+    "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.14%",
+    "uptimeYear": "85.15%",
     "time": 1535,
     "timeDay": 2127,
     "timeWeek": 1936,
@@ -517,8 +517,8 @@
     "status": "up",
     "uptime": "85.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "21.90%",
-    "uptimeMonth": "46.78%",
+    "uptimeWeek": "22.15%",
+    "uptimeMonth": "46.84%",
     "uptimeYear": "85.61%",
     "time": 1531,
     "timeDay": 1890,
