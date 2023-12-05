@@ -1,7 +1,7 @@
 url: http://acm.hdu.edu.cn
-status: up
-code: 200
-responseTime: 786
-lastUpdated: 2023-12-05T19:20:03.325Z
+status: down
+code: 502
+responseTime: 3485
+lastUpdated: 2023-12-05T19:57:06.779Z
 startTime: 2023-04-20T05:20:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
