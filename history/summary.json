@@ -351,11 +351,11 @@
     "url": "https://ti.luogu.com.cn/problemset",
     "icon": "https://icons.duckduckgo.com/ip3/ti.luogu.com.cn.ico",
     "slug": "luogu-ti",
-    "status": "up",
+    "status": "down",
     "uptime": "98.26%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.25%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.24%",
     "uptimeYear": "98.26%",
     "time": 2323,
     "timeDay": 2113,
@@ -363,7 +363,7 @@
     "timeMonth": 2513,
     "timeYear": 2323,
     "dailyMinutesDown": {
-      "2023-12-13": 18,
+      "2023-12-13": 20,
       "2023-12-12": 36,
       "2023-12-11": 17,
       "2023-12-04": 66,
@@ -421,8 +421,7 @@
       "2023-07-21": 71,
       "2023-07-19": 110,
       "2023-07-14": 24,
-      "2023-07-05": 18,
-      "2023-06-30": 17
+      "2023-07-05": 18
     }
   },
   {
