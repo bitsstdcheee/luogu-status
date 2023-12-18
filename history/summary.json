@@ -105,19 +105,19 @@
     "url": "https://cdn.luogu.com.cn/fe/loader.js?ver=20230228-2",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.luogu.com.cn.ico",
     "slug": "luogu-cdn",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "93.68%",
-    "uptimeWeek": "85.80%",
-    "uptimeMonth": "94.48%",
-    "uptimeYear": "98.66%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "93.50%",
+    "uptimeWeek": "85.93%",
+    "uptimeMonth": "94.47%",
+    "uptimeYear": "98.67%",
     "time": 4296,
     "timeDay": 5154,
     "timeWeek": 4587,
     "timeMonth": 4606,
     "timeYear": 4296,
     "dailyMinutesDown": {
-      "2023-12-18": 91,
+      "2023-12-18": 94,
       "2023-12-15": 90,
       "2023-12-12": 492,
       "2023-12-11": 1068,
@@ -160,8 +160,7 @@
       "2023-09-22": 54,
       "2023-09-21": 176,
       "2023-09-20": 316,
-      "2023-09-19": 236,
-      "2023-09-18": 32
+      "2023-09-19": 236
     }
   },
   {
@@ -352,11 +351,11 @@
     "url": "https://ti.luogu.com.cn/problemset",
     "icon": "https://icons.duckduckgo.com/ip3/ti.luogu.com.cn.ico",
     "slug": "luogu-ti",
-    "status": "up",
+    "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "98.18%",
-    "uptimeWeek": "98.20%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.17%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "98.33%",
     "time": 2326,
     "timeDay": 1920,
@@ -364,7 +363,7 @@
     "timeMonth": 2546,
     "timeYear": 2326,
     "dailyMinutesDown": {
-      "2023-12-18": 26,
+      "2023-12-18": 28,
       "2023-12-16": 19,
       "2023-12-15": 44,
       "2023-12-14": 19,
@@ -421,8 +420,7 @@
       "2023-08-26": 1440,
       "2023-08-25": 948,
       "2023-08-14": 15,
-      "2023-08-11": 18,
-      "2023-07-26": 19
+      "2023-08-11": 18
     }
   },
   {
@@ -794,9 +792,9 @@
     "slug": "magic-oj",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.88%",
     "time": 1557,
     "timeDay": 1294,
@@ -804,7 +802,6 @@
     "timeMonth": 1696,
     "timeYear": 1557,
     "dailyMinutesDown": {
-      "2023-12-18": 8,
       "2023-12-09": 43,
       "2023-11-29": 23,
       "2023-11-01": 17,
