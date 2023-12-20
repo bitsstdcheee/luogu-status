@@ -107,9 +107,9 @@
     "slug": "luogu-cdn",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "94.15%",
-    "uptimeWeek": "96.61%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "96.72%",
+    "uptimeMonth": "94.27%",
     "uptimeYear": "98.66%",
     "time": 4296,
     "timeDay": 4105,
@@ -117,7 +117,6 @@
     "timeMonth": 4550,
     "timeYear": 4296,
     "dailyMinutesDown": {
-      "2023-12-20": 11,
       "2023-12-19": 134,
       "2023-12-18": 106,
       "2023-12-15": 90,
@@ -162,7 +161,7 @@
       "2023-09-22": 54,
       "2023-09-21": 176,
       "2023-09-20": 316,
-      "2023-09-19": 151
+      "2023-09-19": 174
     }
   },
   {
@@ -558,10 +557,10 @@
     "url": "http://acm.hdu.edu.cn",
     "icon": "https://icons.duckduckgo.com/ip3/acm.hdu.edu.cn.ico",
     "slug": "hdu",
-    "status": "up",
+    "status": "down",
     "uptime": "88.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.69%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.66%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "88.50%",
     "time": 1549,
@@ -570,6 +569,7 @@
     "timeMonth": 1774,
     "timeYear": 1549,
     "dailyMinutesDown": {
+      "2023-12-20": 3,
       "2023-12-15": 32,
       "2023-12-05": 210,
       "2023-12-04": 20,
