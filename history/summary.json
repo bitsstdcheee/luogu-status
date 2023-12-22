@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 107,
     "timeDay": 75,
-    "timeWeek": 90,
+    "timeWeek": 89,
     "timeMonth": 90,
     "timeYear": 107,
     "dailyMinutesDown": {
@@ -105,11 +105,11 @@
     "url": "https://cdn.luogu.com.cn/fe/loader.js?ver=20230228-2",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.luogu.com.cn.ico",
     "slug": "luogu-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "98.65%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "98.70%",
     "time": 4295,
     "timeDay": 4325,
@@ -117,7 +117,7 @@
     "timeMonth": 4548,
     "timeYear": 4295,
     "dailyMinutesDown": {
-      "2023-12-22": 19,
+      "2023-12-22": 20,
       "2023-12-20": 40,
       "2023-12-19": 134,
       "2023-12-18": 106,
@@ -162,8 +162,7 @@
       "2023-09-23": 17,
       "2023-09-22": 54,
       "2023-09-21": 176,
-      "2023-09-20": 316,
-      "2023-09-19": 16
+      "2023-09-20": 316
     }
   },
   {
