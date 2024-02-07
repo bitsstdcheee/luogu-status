@@ -368,19 +368,19 @@
     "url": "https://ti.luogu.com.cn/problemset",
     "icon": "https://icons.duckduckgo.com/ip3/ti.luogu.com.cn.ico",
     "slug": "luogu-ti",
-    "status": "up",
+    "status": "down",
     "uptime": "99.21%",
-    "uptimeDay": "94.45%",
-    "uptimeWeek": "94.48%",
-    "uptimeMonth": "92.60%",
+    "uptimeDay": "94.35%",
+    "uptimeWeek": "94.47%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "99.21%",
     "time": 2320,
     "timeDay": 2100,
-    "timeWeek": 2413,
+    "timeWeek": 2416,
     "timeMonth": 2262,
     "timeYear": 2320,
     "dailyMinutesDown": {
-      "2024-02-07": 23,
+      "2024-02-07": 24,
       "2024-02-06": 120,
       "2024-02-05": 59,
       "2024-02-04": 70,
@@ -406,7 +406,7 @@
       "2024-01-09": 165,
       "2024-01-08": 85,
       "2024-01-07": 89,
-      "2024-01-06": 31
+      "2024-01-06": 14
     }
   },
   {
