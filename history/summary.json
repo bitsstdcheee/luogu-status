@@ -51,7 +51,7 @@
     "time": 1564,
     "timeDay": 1973,
     "timeWeek": 1864,
-    "timeMonth": 1765,
+    "timeMonth": 1766,
     "timeYear": 1564,
     "dailyMinutesDown": {
       "2023-12-11": 18,
@@ -114,7 +114,7 @@
     "time": 4336,
     "timeDay": 4427,
     "timeWeek": 4814,
-    "timeMonth": 4579,
+    "timeMonth": 4581,
     "timeYear": 4336,
     "dailyMinutesDown": {
       "2024-02-17": 34,
@@ -313,7 +313,7 @@
     "time": 744,
     "timeDay": 2392,
     "timeWeek": 2643,
-    "timeMonth": 1670,
+    "timeMonth": 1672,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2024-02-21": 22,
@@ -372,18 +372,19 @@
     "url": "https://ti.luogu.com.cn/problemset",
     "icon": "https://icons.duckduckgo.com/ip3/ti.luogu.com.cn.ico",
     "slug": "luogu-ti",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "93.52%",
-    "uptimeMonth": "94.45%",
-    "uptimeYear": "99.45%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "94.73%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "94.50%",
+    "uptimeYear": "99.46%",
     "time": 2319,
     "timeDay": 2350,
     "timeWeek": 2380,
-    "timeMonth": 2322,
+    "timeMonth": 2323,
     "timeYear": 2319,
     "dailyMinutesDown": {
+      "2024-02-23": 3,
       "2024-02-22": 73,
       "2024-02-21": 21,
       "2024-02-20": 79,
@@ -406,8 +407,7 @@
       "2024-02-03": 110,
       "2024-02-02": 82,
       "2024-02-01": 57,
-      "2024-01-31": 72,
-      "2024-01-30": 23
+      "2024-01-31": 72
     }
   },
   {
@@ -424,7 +424,7 @@
     "time": 1612,
     "timeDay": 1647,
     "timeWeek": 1625,
-    "timeMonth": 1604,
+    "timeMonth": 1605,
     "timeYear": 1612,
     "dailyMinutesDown": {
       "2023-11-27": 208,
@@ -483,7 +483,7 @@
     "time": 594,
     "timeDay": 522,
     "timeWeek": 598,
-    "timeMonth": 564,
+    "timeMonth": 563,
     "timeYear": 594,
     "dailyMinutesDown": {
       "2024-02-19": 56,
@@ -536,7 +536,7 @@
     "time": 969,
     "timeDay": 908,
     "timeWeek": 979,
-    "timeMonth": 940,
+    "timeMonth": 939,
     "timeYear": 969,
     "dailyMinutesDown": {
       "2024-01-29": 51,
@@ -642,7 +642,7 @@
     "time": 673,
     "timeDay": 663,
     "timeWeek": 637,
-    "timeMonth": 668,
+    "timeMonth": 669,
     "timeYear": 673,
     "dailyMinutesDown": {
       "2024-02-01": 172,
@@ -672,7 +672,7 @@
     "time": 146,
     "timeDay": 100,
     "timeWeek": 142,
-    "timeMonth": 132,
+    "timeMonth": 131,
     "timeYear": 146,
     "dailyMinutesDown": {}
   },
