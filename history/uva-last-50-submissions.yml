@@ -1,7 +1,7 @@
 url: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=19
-status: up
-code: 200
-responseTime: 369
-lastUpdated: 2024-04-17T14:07:18.711Z
+status: down
+code: 502
+responseTime: 161
+lastUpdated: 2024-04-17T15:11:50.505Z
 startTime: 2023-04-23T07:04:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
