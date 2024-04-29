@@ -107,9 +107,9 @@
     "slug": "luogu-cdn",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.48%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.15%",
     "time": 4365,
     "timeDay": 4071,
@@ -117,7 +117,6 @@
     "timeMonth": 4546,
     "timeYear": 4378,
     "dailyMinutesDown": {
-      "2024-04-29": 11,
       "2024-04-20": 17,
       "2024-04-15": 79,
       "2024-04-10": 22,
@@ -179,7 +178,8 @@
       "2023-10-28": 301,
       "2023-10-27": 64,
       "2023-10-25": 18,
-      "2023-10-23": 38
+      "2023-10-23": 38,
+      "2023-10-20": 18
     }
   },
   {
@@ -386,9 +386,9 @@
     "slug": "luogu-ti",
     "status": "up",
     "uptime": "97.95%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "79.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "79.69%",
     "uptimeYear": "97.90%",
     "time": 2309,
     "timeDay": 2229,
@@ -396,7 +396,6 @@
     "timeMonth": 2302,
     "timeYear": 2313,
     "dailyMinutesDown": {
-      "2024-04-29": 11,
       "2024-04-28": 21,
       "2024-04-16": 794,
       "2024-04-15": 1440,
@@ -441,7 +440,7 @@
       "2024-02-20": 79,
       "2024-02-19": 106,
       "2024-02-18": 131,
-      "2024-02-17": 53
+      "2024-02-17": 80
     }
   },
   {
@@ -746,7 +745,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 693,
     "timeDay": 608,
     "timeWeek": 695,
@@ -877,11 +876,11 @@
     "url": "http://magicoj.com",
     "icon": "https://icons.duckduckgo.com/ip3/magicoj.com.ico",
     "slug": "magic-oj",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.88%",
     "time": 1549,
     "timeDay": 1359,
@@ -889,6 +888,7 @@
     "timeMonth": 1488,
     "timeYear": 1549,
     "dailyMinutesDown": {
+      "2024-04-29": 5,
       "2024-04-06": 40,
       "2024-01-25": 90,
       "2023-12-30": 103,
@@ -911,7 +911,7 @@
     "uptime": "92.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.56%",
+    "uptimeMonth": "67.61%",
     "uptimeYear": "92.91%",
     "time": 1410,
     "timeDay": 1712,
