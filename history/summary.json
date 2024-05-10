@@ -104,11 +104,11 @@
     "url": "https://cdn.luogu.com.cn/fe/loader.js?ver=20230228-2",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.luogu.com.cn.ico",
     "slug": "luogu-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "98.60%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.15%",
     "time": 4391,
     "timeDay": 4390,
@@ -116,7 +116,7 @@
     "timeMonth": 4637,
     "timeYear": 4399,
     "dailyMinutesDown": {
-      "2024-05-10": 20,
+      "2024-05-10": 21,
       "2024-05-06": 22,
       "2024-05-01": 16,
       "2024-04-20": 17,
@@ -178,8 +178,7 @@
       "2023-10-30": 166,
       "2023-10-29": 56,
       "2023-10-28": 301,
-      "2023-10-27": 64,
-      "2023-10-25": 18
+      "2023-10-27": 64
     }
   },
   {
@@ -380,9 +379,9 @@
     "slug": "luogu-ti",
     "status": "up",
     "uptime": "98.01%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "79.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "79.81%",
     "uptimeYear": "97.90%",
     "time": 2316,
     "timeDay": 2272,
@@ -390,7 +389,6 @@
     "timeMonth": 2382,
     "timeYear": 2323,
     "dailyMinutesDown": {
-      "2024-05-10": 11,
       "2024-04-28": 21,
       "2024-04-16": 794,
       "2024-04-15": 1440,
@@ -435,7 +433,7 @@
       "2024-02-20": 79,
       "2024-02-19": 106,
       "2024-02-18": 131,
-      "2024-02-17": 53
+      "2024-02-17": 80
     }
   },
   {
@@ -448,7 +446,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.14%",
+    "uptimeYear": "92.15%",
     "time": 1585,
     "timeDay": 1694,
     "timeWeek": 1864,
@@ -591,7 +589,7 @@
     "uptime": "89.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.06%",
+    "uptimeMonth": "97.15%",
     "uptimeYear": "89.21%",
     "time": 1496,
     "timeDay": 1913,
